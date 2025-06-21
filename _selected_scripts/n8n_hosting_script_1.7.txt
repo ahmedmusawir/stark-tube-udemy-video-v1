@@ -1,0 +1,15 @@
+Time to play detective with your disk space. When things start getting tight, this command helps you spot the real space hogs at the top level of your root partition.
+
+The magic here is:  
+`du -h -d 1 / 2>/dev/null | sort -hr | head -20`
+
+What does it do?  
+- `du -h -d 1 /` shows you the sizes of each main directory under root, in human-readable units.  
+- The output is sorted by size, biggest folders first, so you instantly see where your gigabytes are hiding.  
+- The `2>/dev/null` bit just hides error messages to keep things clean, and `head -20` shows only the top 20 entries.
+
+Looking at this list, you can see `/var`, `/usr`, and `/snap` are the biggest—those are always prime suspects when you’re running out of space.
+
+Master this command, and you’ll never wonder where your disk vanished again.
+
+Alright, next step coming up—let’s keep going!

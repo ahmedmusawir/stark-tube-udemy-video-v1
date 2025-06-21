@@ -1,0 +1,9 @@
+Now let’s talk about Docker volumes—these little guys can eat up a *ton* of disk space, especially if you’re spinning up databases or persisting data between containers.
+
+The command `docker volume ls` shows you every volume on your system, whether it’s currently being used or just sitting there. If you’ve ever run a database in Docker, odds are you’ve got volumes quietly hanging around, taking up space.
+
+Next up, `docker system df` gives you the big picture—how much space your images, containers, volumes, and build cache are really using. Check that ‘RECLAIMABLE’ column. If you see big numbers, it means you’ve got old junk you can clear out and instantly free up gigabytes.
+
+Bottom line: smart Docker devs don’t just manage containers—they manage their storage. Stay lean, avoid outages, and keep your environment clean.
+
+Alright, let’s go to the next step!

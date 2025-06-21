@@ -192,3 +192,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Ignore all sequence audio and video files
+1-audio_gen/output_audio/*
+!1-audio_gen/output_audio/.gitkeep
+2-video_clip_gen/output_clips/*
+!2-video_clip_gen/output_clips/.gitkeep
+3-video_full_gen/output_final/*
+!3-video_full_gen/output_final/.gitkeep

@@ -1,0 +1,17 @@
+Aaaall righty then! 
+
+Let's connect to our droplet via ssh from our local system.
+
+You do have set up your local system with ssh of course.
+
+And I assure you, there are plenty of youtube videos you can find that will show you how to do that.
+
+So, basically, once ssh is setup, all you have to do is type up this command,
+
+ssh root@yourdroplet.com
+
+you could also use the IP address of the droplet. But for this course, I will assume that you already know how to setup your domain on your digital ocean droplet.
+
+Once again, there is plenty of videos on youtube that will show you how to set that up also!
+
+All That said, let's move forward, shall we?

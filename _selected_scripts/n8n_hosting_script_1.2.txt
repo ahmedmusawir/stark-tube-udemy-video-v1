@@ -1,0 +1,7 @@
+alright! this is where we begin ... as you see here, this is my digital ocean portal.
+
+as you see, i have two droplets and one is called, "docker-moose"
+
+that's where we will begin!
+
+in case you're wondering how i created it? this is how! 

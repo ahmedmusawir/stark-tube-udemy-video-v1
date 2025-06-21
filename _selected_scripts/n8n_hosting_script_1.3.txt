@@ -1,0 +1,11 @@
+Yup! Just by choosing that, while i was creating my digital ocean droplet.
+
+I should mention that my Docker droplet has a 2 core Intel CPU, 4GB of RAM and 25GB of SSD hard disk space. Well, you can go lower, but I wouldn't recommend it for a n8n rig! I mean, if you really wanna enjoy working with it.
+
+Also, FYI, Digital Ocean do have one with n8n installed also, but guess what, installing n8n is just a one liner. 
+
+Even if you get that one of those, you still have to do 90% of the work I'll be showing here.
+
+I mean, setting up nginx reverse proxy for the domain setup, SSL setup for your domain with Nginx and Let's Encrypt service, reconfigure your docker configuration file with proxy setup so that your n8n installation knows what domain it is using etc. etc. 
+
+So ya! Once again, let's fasten our seat belts!
