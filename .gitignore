@@ -200,3 +200,4 @@ cython_debug/
 !2-video_clip_gen/output_clips/.gitkeep
 3-video_full_gen/output_final/*
 !3-video_full_gen/output_final/.gitkeep
+x-backups/*

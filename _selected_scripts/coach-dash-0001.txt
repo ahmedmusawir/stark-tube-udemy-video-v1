@@ -1,0 +1,9 @@
+Welcome guys and dolls!
+
+let's talk about modern software engineering!
+
+look at this beauty! this is an ecommerce dashboard my friend and i built and deployed in 9 days! My friend, who is not a coder but a ui/ux genius, built the frontend in 2 days using lovable.dev, pushed the code to github and it took me 7 days to put together the rest including data generation in Woocommerce and Google Analytics, coding the backend, testing and bug fixing.
+
+We used Lovable.dev for the frontend and deployment, Supabase for authentication, Gemini CLI, V S code, Vite React App, Woocommerce on WordPress, Google Cloud and Analytics, AI chatbots etc. to build this. That's the story I'm about to tell in this video series, which will show the strategies taken, surprises faced, challenges met and lessons learned in modern software engineering!
+
+Let's go!

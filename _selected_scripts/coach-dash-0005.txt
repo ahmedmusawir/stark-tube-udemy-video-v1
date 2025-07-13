@@ -1,0 +1,18 @@
+Okay! the last but not least ... 
+
+when clicked on that "API Settings" button at the top, the whole API settings section drops!
+
+this is where we put in:
+
+the woocommerce site url, our main data source.
+
+the consumer key and the secret key for REST api access.
+
+and at the bottom, we input & save the Google Analytics ID and the service account json file content, which we collected from our Google Cloud console.
+
+we use these credentials, pull data from our Woocom backend and Google Analytics. We also, have 2 buttons at the bottom of each block to test the connnections.
+
+Now that you know the app details, let's look at the app architecture next!
+
+
+

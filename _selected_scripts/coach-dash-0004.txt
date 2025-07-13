@@ -1,0 +1,16 @@
+Now let's look at the coupon code filter at the top.
+
+We extract this coupon code data dynamically when we bring in the woocommerce order data via the REST api.
+
+Based on this selection and the date range, we filter,
+
+the Total revenue data,
+
+the total order numbers,
+
+thus, the average order value,
+
+also, update the revenue bar chart and the order details list at the bottom.
+
+
+

@@ -1,0 +1,15 @@
+Ok let's look at this app's functionalities, shall we?
+
+First, we look at the Filters and Controls section at the top. 
+
+There is a date range selection block. By default it shows the current week. Thus, in the second row, we bring in, from the left,
+
+The total revenue extracted from order data, by the date range.
+
+Number or orders and the average order value. All comes from our Woocommerce backend via the REST api!
+
+Accroding to that, in the second chart, we show a revenue bar chart by date.
+
+Also, at the bottom of the app, which is shown on the right, we have the order details showing Order ids, dates, coupon codes etc. with pagination.
+
+Next we explain the rest of the app!

@@ -1,9 +1,0 @@
-Here’s the first truth bomb: n8n doesn’t have a free tier anymore. That ‘Starter’ plan? It’ll run you about $20 a month, billed annually—and that’s before you add in the extra cost of ChatGPT, Perplexity, third-party APIs, and whatever hosting or VPS you need for your projects.
-
-For devs, that stuff adds up fast—especially if you’re just trying to learn or prototype.
-
-And that’s exactly why this course is about to get pretty geeky. We’re going beyond drag-and-drop, into the land of DevOps, self-hosting, and real control. Because these days, just being a coder isn’t enough.
-
-With AI cranking out vibe coding zombies left and right, there’s a gold rush coming—and honestly, those zombies might be good for us in the long run. Why? Because they’ll be generating a lot of crappy apps, and guess who they’ll call to clean up the mess? Real developers who actually understand how software works.
-
-So buckle up—this isn’t your typical low-code tutorial. We’re about to go full Tony Stark mode. Let’s go.
