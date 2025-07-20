@@ -24,7 +24,7 @@ def suppress_stdout_stderr():
             sys.stdout, sys.stderr = old_stdout, old_stderr
 
 # --- Configuration ---
-PROJECT_NAME = "n8n-hosting-course" 
+PROJECT_NAME = "coach-dashboard" 
 CLIPS_INPUT_DIR = Path("2-video_clip_gen/output_clips") / PROJECT_NAME
 FINAL_OUTPUT_DIR = Path("3-video_full_gen/output_final") / PROJECT_NAME
 FINAL_VIDEO_FILENAME = f"{PROJECT_NAME}_full_video.mp4"
