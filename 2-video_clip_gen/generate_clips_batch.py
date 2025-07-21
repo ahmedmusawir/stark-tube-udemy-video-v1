@@ -11,7 +11,7 @@ import numpy as np
 
 # --- Configuration ---
 PROJECT_NAME = "coach-dashboard"
-SELECTED_SCREENS_DIR = Path("_selected_screens")
+SELECTED_SCREENS_DIR = Path("selected_screens")
 AUDIO_INPUT_DIR = Path("1-audio_gen/output_audio") / PROJECT_NAME
 CLIPS_OUTPUT_DIR = Path("2-video_clip_gen/output_clips") / PROJECT_NAME
 VIDEO_SIZE = (1920, 1080)

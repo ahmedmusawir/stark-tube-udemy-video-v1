@@ -10,7 +10,7 @@ import math
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-SELECTED_SCRIPTS_DIR = Path("_selected_scripts")
+SELECTED_SCRIPTS_DIR = Path("selected_scripts")
 BASE_AUDIO_OUTPUT_DIR = Path("1-audio_gen/output_audio")
 
 PROJECT_NAME = "coach-dashboard" 

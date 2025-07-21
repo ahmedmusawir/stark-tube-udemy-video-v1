@@ -11,7 +11,7 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Define input and output directories relative to the script's location (project root)
-SELECTED_SCRIPTS_DIR = Path("_selected_scripts")
+SELECTED_SCRIPTS_DIR = Path("selected_scripts")
 OUTPUT_AUDIO_DIR = Path("1-audio_gen/output_audio")
 
 # Text chunk limit for OpenAI TTS (as per your existing code)
